@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\ListeVarie\ListeVarie\bin\Debug\ListeVarie.exe.config
+C:\Users\Ex-Novo\source\repos\ListeVarie\ListeVarie\bin\Debug\ListeVarie.exe
+C:\Users\Ex-Novo\source\repos\ListeVarie\ListeVarie\bin\Debug\ListeVarie.pdb
+C:\Users\Ex-Novo\source\repos\ListeVarie\ListeVarie\obj\Debug\ListeVarie.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\ListeVarie\ListeVarie\obj\Debug\ListeVarie.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\ListeVarie\ListeVarie\obj\Debug\ListeVarie.exe
+C:\Users\Ex-Novo\source\repos\ListeVarie\ListeVarie\obj\Debug\ListeVarie.pdb

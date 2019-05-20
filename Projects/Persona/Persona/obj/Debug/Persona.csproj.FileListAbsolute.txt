@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\Persona\Persona\bin\Debug\Persona.exe.config
+C:\Users\Ex-Novo\source\repos\Persona\Persona\bin\Debug\Persona.exe
+C:\Users\Ex-Novo\source\repos\Persona\Persona\bin\Debug\Persona.pdb
+C:\Users\Ex-Novo\source\repos\Persona\Persona\obj\Debug\Persona.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\Persona\Persona\obj\Debug\Persona.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\Persona\Persona\obj\Debug\Persona.exe
+C:\Users\Ex-Novo\source\repos\Persona\Persona\obj\Debug\Persona.pdb

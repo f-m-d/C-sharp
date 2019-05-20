@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\Referenze\Referenze\bin\Debug\Referenze.exe.config
+C:\Users\Ex-Novo\source\repos\Referenze\Referenze\bin\Debug\Referenze.exe
+C:\Users\Ex-Novo\source\repos\Referenze\Referenze\bin\Debug\Referenze.pdb
+C:\Users\Ex-Novo\source\repos\Referenze\Referenze\obj\Debug\Referenze.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\Referenze\Referenze\obj\Debug\Referenze.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\Referenze\Referenze\obj\Debug\Referenze.exe
+C:\Users\Ex-Novo\source\repos\Referenze\Referenze\obj\Debug\Referenze.pdb

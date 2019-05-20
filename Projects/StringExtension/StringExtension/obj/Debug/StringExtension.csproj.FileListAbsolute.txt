@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\StringExtension\StringExtension\bin\Debug\StringExtension.exe.config
+C:\Users\Ex-Novo\source\repos\StringExtension\StringExtension\bin\Debug\StringExtension.exe
+C:\Users\Ex-Novo\source\repos\StringExtension\StringExtension\bin\Debug\StringExtension.pdb
+C:\Users\Ex-Novo\source\repos\StringExtension\StringExtension\obj\Debug\StringExtension.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\StringExtension\StringExtension\obj\Debug\StringExtension.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\StringExtension\StringExtension\obj\Debug\StringExtension.exe
+C:\Users\Ex-Novo\source\repos\StringExtension\StringExtension\obj\Debug\StringExtension.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\Eccezioni\Eccezioni\bin\Debug\Eccezioni.exe.config
+C:\Users\Ex-Novo\source\repos\Eccezioni\Eccezioni\bin\Debug\Eccezioni.exe
+C:\Users\Ex-Novo\source\repos\Eccezioni\Eccezioni\bin\Debug\Eccezioni.pdb
+C:\Users\Ex-Novo\source\repos\Eccezioni\Eccezioni\obj\Debug\Eccezioni.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\Eccezioni\Eccezioni\obj\Debug\Eccezioni.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\Eccezioni\Eccezioni\obj\Debug\Eccezioni.exe
+C:\Users\Ex-Novo\source\repos\Eccezioni\Eccezioni\obj\Debug\Eccezioni.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\Enumeration_and_Switches\Enumeration_and_Switches\bin\Debug\Enumeration_and_Switches.exe.config
+C:\Users\Ex-Novo\source\repos\Enumeration_and_Switches\Enumeration_and_Switches\bin\Debug\Enumeration_and_Switches.exe
+C:\Users\Ex-Novo\source\repos\Enumeration_and_Switches\Enumeration_and_Switches\bin\Debug\Enumeration_and_Switches.pdb
+C:\Users\Ex-Novo\source\repos\Enumeration_and_Switches\Enumeration_and_Switches\obj\Debug\Enumeration_and_Switches.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\Enumeration_and_Switches\Enumeration_and_Switches\obj\Debug\Enumeration_and_Switches.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\Enumeration_and_Switches\Enumeration_and_Switches\obj\Debug\Enumeration_and_Switches.exe
+C:\Users\Ex-Novo\source\repos\Enumeration_and_Switches\Enumeration_and_Switches\obj\Debug\Enumeration_and_Switches.pdb

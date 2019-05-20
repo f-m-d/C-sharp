@@ -1,0 +1,6 @@
+C:\Users\Ex-Novo\source\repos\Tabellina\Tabellina\bin\Debug\Tabellina.exe.config
+C:\Users\Ex-Novo\source\repos\Tabellina\Tabellina\bin\Debug\Tabellina.exe
+C:\Users\Ex-Novo\source\repos\Tabellina\Tabellina\bin\Debug\Tabellina.pdb
+C:\Users\Ex-Novo\source\repos\Tabellina\Tabellina\obj\Debug\Tabellina.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\Tabellina\Tabellina\obj\Debug\Tabellina.exe
+C:\Users\Ex-Novo\source\repos\Tabellina\Tabellina\obj\Debug\Tabellina.pdb

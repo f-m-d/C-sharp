@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\ReversePhrase\ReversePhrase\bin\Debug\ReversePhrase.exe.config
+C:\Users\Ex-Novo\source\repos\ReversePhrase\ReversePhrase\bin\Debug\ReversePhrase.exe
+C:\Users\Ex-Novo\source\repos\ReversePhrase\ReversePhrase\bin\Debug\ReversePhrase.pdb
+C:\Users\Ex-Novo\source\repos\ReversePhrase\ReversePhrase\obj\Debug\ReversePhrase.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\ReversePhrase\ReversePhrase\obj\Debug\ReversePhrase.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\ReversePhrase\ReversePhrase\obj\Debug\ReversePhrase.exe
+C:\Users\Ex-Novo\source\repos\ReversePhrase\ReversePhrase\obj\Debug\ReversePhrase.pdb

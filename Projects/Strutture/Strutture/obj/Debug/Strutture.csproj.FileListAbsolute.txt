@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\Strutture\Strutture\bin\Debug\Strutture.exe.config
+C:\Users\Ex-Novo\source\repos\Strutture\Strutture\bin\Debug\Strutture.exe
+C:\Users\Ex-Novo\source\repos\Strutture\Strutture\bin\Debug\Strutture.pdb
+C:\Users\Ex-Novo\source\repos\Strutture\Strutture\obj\Debug\Strutture.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\Strutture\Strutture\obj\Debug\Strutture.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\Strutture\Strutture\obj\Debug\Strutture.exe
+C:\Users\Ex-Novo\source\repos\Strutture\Strutture\obj\Debug\Strutture.pdb

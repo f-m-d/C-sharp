@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\TabellaHash\TabellaHash\bin\Debug\TabellaHash.exe.config
+C:\Users\Ex-Novo\source\repos\TabellaHash\TabellaHash\bin\Debug\TabellaHash.exe
+C:\Users\Ex-Novo\source\repos\TabellaHash\TabellaHash\bin\Debug\TabellaHash.pdb
+C:\Users\Ex-Novo\source\repos\TabellaHash\TabellaHash\obj\Debug\TabellaHash.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\TabellaHash\TabellaHash\obj\Debug\TabellaHash.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\TabellaHash\TabellaHash\obj\Debug\TabellaHash.exe
+C:\Users\Ex-Novo\source\repos\TabellaHash\TabellaHash\obj\Debug\TabellaHash.pdb

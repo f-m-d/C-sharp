@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\HelloYourName\HelloYourName\bin\Debug\HelloYourName.exe.config
+C:\Users\Ex-Novo\source\repos\HelloYourName\HelloYourName\bin\Debug\HelloYourName.exe
+C:\Users\Ex-Novo\source\repos\HelloYourName\HelloYourName\bin\Debug\HelloYourName.pdb
+C:\Users\Ex-Novo\source\repos\HelloYourName\HelloYourName\obj\Debug\HelloYourName.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\HelloYourName\HelloYourName\obj\Debug\HelloYourName.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\HelloYourName\HelloYourName\obj\Debug\HelloYourName.exe
+C:\Users\Ex-Novo\source\repos\HelloYourName\HelloYourName\obj\Debug\HelloYourName.pdb

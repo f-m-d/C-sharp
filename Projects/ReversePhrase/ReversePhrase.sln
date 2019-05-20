@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePhrase", "ReversePhrase\ReversePhrase.csproj", "{BFB29B2C-3CE0-43ED-998E-B36AE6FDA46D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB29B2C-3CE0-43ED-998E-B36AE6FDA46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB29B2C-3CE0-43ED-998E-B36AE6FDA46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB29B2C-3CE0-43ED-998E-B36AE6FDA46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB29B2C-3CE0-43ED-998E-B36AE6FDA46D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {644CCEAF-403C-445F-9593-F422BADF4E52}
+	EndGlobalSection
+EndGlobal

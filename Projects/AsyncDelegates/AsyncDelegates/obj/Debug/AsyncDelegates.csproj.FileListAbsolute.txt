@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\AsyncDelegates\AsyncDelegates\bin\Debug\AsyncDelegates.exe.config
+C:\Users\Ex-Novo\source\repos\AsyncDelegates\AsyncDelegates\bin\Debug\AsyncDelegates.exe
+C:\Users\Ex-Novo\source\repos\AsyncDelegates\AsyncDelegates\bin\Debug\AsyncDelegates.pdb
+C:\Users\Ex-Novo\source\repos\AsyncDelegates\AsyncDelegates\obj\Debug\AsyncDelegates.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\AsyncDelegates\AsyncDelegates\obj\Debug\AsyncDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\AsyncDelegates\AsyncDelegates\obj\Debug\AsyncDelegates.exe
+C:\Users\Ex-Novo\source\repos\AsyncDelegates\AsyncDelegates\obj\Debug\AsyncDelegates.pdb

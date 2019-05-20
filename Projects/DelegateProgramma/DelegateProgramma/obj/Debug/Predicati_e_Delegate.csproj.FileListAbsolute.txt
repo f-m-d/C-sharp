@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\DelegateProgramma\DelegateProgramma\bin\Debug\DelegateProgramma.exe.config
+C:\Users\Ex-Novo\source\repos\DelegateProgramma\DelegateProgramma\bin\Debug\DelegateProgramma.exe
+C:\Users\Ex-Novo\source\repos\DelegateProgramma\DelegateProgramma\bin\Debug\DelegateProgramma.pdb
+C:\Users\Ex-Novo\source\repos\DelegateProgramma\DelegateProgramma\obj\Debug\Predicati_e_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\DelegateProgramma\DelegateProgramma\obj\Debug\DelegateProgramma.exe
+C:\Users\Ex-Novo\source\repos\DelegateProgramma\DelegateProgramma\obj\Debug\DelegateProgramma.pdb
+C:\Users\Ex-Novo\source\repos\DelegateProgramma\DelegateProgramma\obj\Debug\Predicati_e_Delegate.csprojAssemblyReference.cache

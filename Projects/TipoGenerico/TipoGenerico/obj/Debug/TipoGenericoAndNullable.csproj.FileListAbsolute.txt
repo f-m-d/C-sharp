@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\TipoGenerico\TipoGenerico\bin\Debug\TipoGenerico.exe.config
+C:\Users\Ex-Novo\source\repos\TipoGenerico\TipoGenerico\bin\Debug\TipoGenerico.exe
+C:\Users\Ex-Novo\source\repos\TipoGenerico\TipoGenerico\bin\Debug\TipoGenerico.pdb
+C:\Users\Ex-Novo\source\repos\TipoGenerico\TipoGenerico\obj\Debug\TipoGenericoAndNullable.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\TipoGenerico\TipoGenerico\obj\Debug\TipoGenericoAndNullable.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\TipoGenerico\TipoGenerico\obj\Debug\TipoGenerico.exe
+C:\Users\Ex-Novo\source\repos\TipoGenerico\TipoGenerico\obj\Debug\TipoGenerico.pdb

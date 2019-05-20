@@ -1,0 +1,10 @@
+C:\Users\Ex-Novo\source\repos\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\Ex-Novo\source\repos\MyClient\MyClient\bin\Debug\MyClient.exe
+C:\Users\Ex-Novo\source\repos\MyClient\MyClient\bin\Debug\MyClient.pdb
+C:\Users\Ex-Novo\source\repos\MyClient\MyClient\bin\Debug\MyCodeLibrary.dll
+C:\Users\Ex-Novo\source\repos\MyClient\MyClient\bin\Debug\MyCodeLibrary.pdb
+C:\Users\Ex-Novo\source\repos\MyClient\MyClient\obj\Debug\MyClient.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\MyClient\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\MyClient\MyClient\obj\Debug\MyClient.csproj.CopyComplete
+C:\Users\Ex-Novo\source\repos\MyClient\MyClient\obj\Debug\MyClient.exe
+C:\Users\Ex-Novo\source\repos\MyClient\MyClient\obj\Debug\MyClient.pdb

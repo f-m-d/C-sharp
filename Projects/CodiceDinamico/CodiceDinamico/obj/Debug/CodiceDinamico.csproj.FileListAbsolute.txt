@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\CodiceDinamico\CodiceDinamico\obj\Debug\CodiceDinamico.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\CodiceDinamico\CodiceDinamico\bin\Debug\CodiceDinamico.exe.config
+C:\Users\Ex-Novo\source\repos\CodiceDinamico\CodiceDinamico\bin\Debug\CodiceDinamico.exe
+C:\Users\Ex-Novo\source\repos\CodiceDinamico\CodiceDinamico\bin\Debug\CodiceDinamico.pdb
+C:\Users\Ex-Novo\source\repos\CodiceDinamico\CodiceDinamico\obj\Debug\CodiceDinamico.exe
+C:\Users\Ex-Novo\source\repos\CodiceDinamico\CodiceDinamico\obj\Debug\CodiceDinamico.pdb
+C:\Users\Ex-Novo\source\repos\CodiceDinamico\CodiceDinamico\obj\Debug\CodiceDinamico.csprojAssemblyReference.cache

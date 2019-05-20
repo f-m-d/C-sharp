@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\TipiRuntimeReflection\TipiRuntimeReflection\bin\Debug\TipiRuntimeReflection.exe.config
+C:\Users\Ex-Novo\source\repos\TipiRuntimeReflection\TipiRuntimeReflection\bin\Debug\TipiRuntimeReflection.exe
+C:\Users\Ex-Novo\source\repos\TipiRuntimeReflection\TipiRuntimeReflection\bin\Debug\TipiRuntimeReflection.pdb
+C:\Users\Ex-Novo\source\repos\TipiRuntimeReflection\TipiRuntimeReflection\obj\Debug\TipiRuntimeReflection.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\TipiRuntimeReflection\TipiRuntimeReflection\obj\Debug\TipiRuntimeReflection.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\TipiRuntimeReflection\TipiRuntimeReflection\obj\Debug\TipiRuntimeReflection.exe
+C:\Users\Ex-Novo\source\repos\TipiRuntimeReflection\TipiRuntimeReflection\obj\Debug\TipiRuntimeReflection.pdb

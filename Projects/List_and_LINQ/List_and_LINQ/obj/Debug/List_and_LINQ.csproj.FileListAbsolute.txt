@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\List_and_LINQ\List_and_LINQ\bin\Debug\List_and_LINQ.exe.config
+C:\Users\Ex-Novo\source\repos\List_and_LINQ\List_and_LINQ\bin\Debug\List_and_LINQ.exe
+C:\Users\Ex-Novo\source\repos\List_and_LINQ\List_and_LINQ\bin\Debug\List_and_LINQ.pdb
+C:\Users\Ex-Novo\source\repos\List_and_LINQ\List_and_LINQ\obj\Debug\List_and_LINQ.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\List_and_LINQ\List_and_LINQ\obj\Debug\List_and_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\List_and_LINQ\List_and_LINQ\obj\Debug\List_and_LINQ.exe
+C:\Users\Ex-Novo\source\repos\List_and_LINQ\List_and_LINQ\obj\Debug\List_and_LINQ.pdb

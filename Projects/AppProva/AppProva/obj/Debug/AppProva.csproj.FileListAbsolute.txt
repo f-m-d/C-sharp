@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\AppProva\AppProva\bin\Debug\AppProva.exe.config
+C:\Users\Ex-Novo\source\repos\AppProva\AppProva\bin\Debug\AppProva.exe
+C:\Users\Ex-Novo\source\repos\AppProva\AppProva\bin\Debug\AppProva.pdb
+C:\Users\Ex-Novo\source\repos\AppProva\AppProva\obj\Debug\AppProva.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\AppProva\AppProva\obj\Debug\AppProva.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\AppProva\AppProva\obj\Debug\AppProva.exe
+C:\Users\Ex-Novo\source\repos\AppProva\AppProva\obj\Debug\AppProva.pdb

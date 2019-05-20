@@ -1,0 +1,6 @@
+C:\Users\Ex-Novo\source\repos\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.dll
+C:\Users\Ex-Novo\source\repos\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.pdb
+C:\Users\Ex-Novo\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.dll
+C:\Users\Ex-Novo\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.pdb

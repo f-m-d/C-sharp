@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\Collezioni\Collezioni\bin\Debug\Collezioni.exe.config
+C:\Users\Ex-Novo\source\repos\Collezioni\Collezioni\bin\Debug\Collezioni.exe
+C:\Users\Ex-Novo\source\repos\Collezioni\Collezioni\bin\Debug\Collezioni.pdb
+C:\Users\Ex-Novo\source\repos\Collezioni\Collezioni\obj\Debug\Collezioni.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\Collezioni\Collezioni\obj\Debug\Collezioni.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\Collezioni\Collezioni\obj\Debug\Collezioni.exe
+C:\Users\Ex-Novo\source\repos\Collezioni\Collezioni\obj\Debug\Collezioni.pdb

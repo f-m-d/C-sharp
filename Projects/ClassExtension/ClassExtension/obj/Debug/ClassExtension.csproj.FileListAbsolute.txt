@@ -1,0 +1,7 @@
+C:\Users\Ex-Novo\source\repos\ClassExtension\ClassExtension\bin\Debug\ClassExtension.exe.config
+C:\Users\Ex-Novo\source\repos\ClassExtension\ClassExtension\bin\Debug\ClassExtension.exe
+C:\Users\Ex-Novo\source\repos\ClassExtension\ClassExtension\bin\Debug\ClassExtension.pdb
+C:\Users\Ex-Novo\source\repos\ClassExtension\ClassExtension\obj\Debug\ClassExtension.csprojAssemblyReference.cache
+C:\Users\Ex-Novo\source\repos\ClassExtension\ClassExtension\obj\Debug\ClassExtension.csproj.CoreCompileInputs.cache
+C:\Users\Ex-Novo\source\repos\ClassExtension\ClassExtension\obj\Debug\ClassExtension.exe
+C:\Users\Ex-Novo\source\repos\ClassExtension\ClassExtension\obj\Debug\ClassExtension.pdb
